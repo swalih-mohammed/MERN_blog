@@ -24,5 +24,6 @@ npm run server
 ```
 
 ## Demo
+https://mern-blog-hpgm.onrender.com/
 
 
